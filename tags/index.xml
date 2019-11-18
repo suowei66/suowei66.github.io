@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 蜗牛的博客</title>
-    <link>http://suowei66.github.io/tags/</link>
+    <link>https://blog.suowei66.top/tags/</link>
     <description>Recent content in Tags on 蜗牛的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 18 Nov 2019 17:41:30 +0800</lastBuildDate>
     
-        <atom:link href="http://suowei66.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.suowei66.top/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>log</title>
-      <link>http://suowei66.github.io/tags/log/</link>
+      <link>https://blog.suowei66.top/tags/log/</link>
       <pubDate>Mon, 18 Nov 2019 17:41:30 +0800</pubDate>
       
-      <guid>http://suowei66.github.io/tags/log/</guid>
+      <guid>https://blog.suowei66.top/tags/log/</guid>
       <description></description>
     </item>
     
